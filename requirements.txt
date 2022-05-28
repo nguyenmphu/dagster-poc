@@ -1,0 +1,3 @@
+dagit==0.14.17
+dagster==0.14.17
+requests==2.27.1
